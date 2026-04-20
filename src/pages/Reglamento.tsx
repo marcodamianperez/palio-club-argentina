@@ -46,7 +46,7 @@ export default function Reglamento() {
           Código de <span className="text-primary">Convivencia</span>
         </h1>
         <p className="text-text-muted text-lg">
-          Para mantener un grupo ordenado, útil y amigable, te pedimos que leas y aceptes las siguientes básicas antes de unirte.
+          Para mantener un grupo ordenado, útil y amigable, te pedimos que leas y aceptes las siguientes reglas básicas antes de ingresar.
         </p>
       </div>
 

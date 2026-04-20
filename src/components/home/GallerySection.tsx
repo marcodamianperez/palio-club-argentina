@@ -44,7 +44,7 @@ export default function GallerySection() {
             transition={{ delay: 0.1 }}
             className="text-text-muted text-lg max-w-2xl mx-auto"
           >
-            Desde el clásico de los 90s hasta el Palio Novo, cada versión tiene su lugar especial en nuestro club.
+            Desde el clásico de los 90s hasta los últimos modelos, cada versión tiene un lugar especial en nuestro club.
           </motion.p>
         </div>
       </div>

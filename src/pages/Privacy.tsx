@@ -58,7 +58,7 @@ export default function Privacy() {
               <span className="text-primary">3.</span> Enlace a WhatsApp
             </h2>
             <p className="mb-4">
-              Este sitio contiene enlaces que redirigen a un grupo de WhatsApp. Al hacer clic y unirte al grupo, pasás a interactuar dentro de la plataforma WhatsApp, que tiene sus propias políticas de privacidad.
+              Este sitio contiene enlaces que redirigen a un grupo de WhatsApp. Al hacer click y unirte al grupo, pasás a interactuar dentro de la plataforma WhatsApp, que tiene sus propias políticas de privacidad.
             </p>
             <p className="mb-2">Al unirte a un grupo de WhatsApp, otros miembros podrán ver:</p>
             <ul className="list-disc pl-6 space-y-2 mb-4">
